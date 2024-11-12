@@ -1,6 +1,6 @@
 - 👋 I'm Sai Puneeth Balaji
 - 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently learning ML
+- 🌱 Currently honing my skills in Web Dev 
 - 😄 Pronouns: he/him
 - You can reach me at saipuneethbalaji@gmail.com
 <!---
